@@ -1,4 +1,4 @@
-###  FrontEnd Developer  👋
+###  FrontEnd Developer 
 
 👋 Hola, soy Moises, un desarrollador frontend especializado en React y con experiencia en el ámbito bancario y como freelancer. 
 
